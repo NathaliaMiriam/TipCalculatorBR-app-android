@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema do aplicativo para tema escuro -->
+    <style name="Theme.TipCalculatorBR" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Cor principal -->
+        <item name="colorPrimary">@color/green_light</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Cor secundária -->
+        <item name="colorSecondary">@color/blue_light</item>
+        <item name="colorSecondaryVariant">@color/blue_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Cor da barra de status -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <!-- Para campos de entrada de texto -->
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+
+        <!-- Para radio buttons -->
+        <item name="radioButtonStyle">@style/Widget.TipTime.CompoundButton.RadioButton</item>
+
+        <!-- Para switches -->
+        <item name="switchStyle">@style/Widget.TipTime.CompoundButton.Switch</item>
+    </style>
+</resources>

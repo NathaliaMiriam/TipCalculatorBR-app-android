@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome do app -->
+    <string name="app_name">Tip Calculator | BR</string>
+
+    <!-- Texto de dica para campo de texto editável onde o usuário insere o custo do serviço -->
+    <string name="cost_of_service">Custo do Serviço</string>
+
+    <!-- Prompt de pergunta para o grupo de botões de opção com diferentes opções de dica -->
+    <string name="how_was_the_service">Como foi o serviço?</string>
+
+    <!-- Opção de gorjeta para um serviço incrível que usa 20% para calcular a gorjeta  -->
+    <string name="amazing_service">Incrível (20%)</string>
+
+    <!-- Opção de gorjeta para um serviço bom que usa 18% para calcular a gorjeta  -->
+    <string name="good_service">Bom (18%)</string>
+
+    <!-- Opção de gorjeta para um serviço ok que usa 18% para calcular a gorjeta  -->
+    <string name="ok_service">Ok (15%)</string>
+
+    <!-- Rótulo de texto para o botão de alternância que pergunta ao usuário se ele deseja arredondar a gorjeta  -->
+    <string name="round_up_tip">Arredondar a gorjeta?</string>
+
+    <!-- Rótulo para o botão que calcula a gorjeta  -->
+    <string name="calculate">Calcular</string>
+
+    <!-- String formatada para o resultado da gorjeta  -->
+    <string name="tip_amount">Valor da Gorjeta: %s</string>
+</resources>
