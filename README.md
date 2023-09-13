@@ -10,7 +10,7 @@ E, existe a possibilidade do cliente arredondar ou não o valor da gorjeta.
 
 ### 📲 Layout:
 
-- tela inicial - sem dados inseridos e sem cálculo efetudado:
+- tela inicial - sem dados inseridos e sem cálculo efetuado:
 <h1>
   <img src="docs/images/image_first.png"  width="300" height="600">
 </h1>
