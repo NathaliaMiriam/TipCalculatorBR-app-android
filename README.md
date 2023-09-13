@@ -2,7 +2,7 @@
 
 ### 📄 Descrição:
 
-Calculadora de gorjetas com experiência de usuário mais sofisticada por meio dos Componentes do Material Design (MDC). <br> <br>
+Aplicativo Android com Kotlin, que calcula gorjetas, com experiência de usuário mais sofisticada por meio dos Componentes do Material Design (MDC). <br> <br>
 O cálculo é efetuado de acordo com o valor do serviço e a porcentagem estabelecida para cada nível de avaliação, que é dada pelo cliente. <br>
 E, existe a possibilidade do cliente arredondar ou não o valor da gorjeta.
 
